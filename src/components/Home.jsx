@@ -38,7 +38,7 @@ function Home() {
           >
             <div className="py-12 ">
               <img
-                src="src/assets/offer.svg"
+                src=".assets/offer.svg"
                 alt="Offer"
                 className="h-[310px] sm:h-auto"
               />
