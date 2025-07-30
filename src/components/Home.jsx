@@ -1,3 +1,4 @@
+import image from "src/assets/offer.svg";
 function Home() {
   return (
     <>
@@ -37,11 +38,7 @@ function Home() {
             className="max-w-[330px] sm:max-w-[420px] sm:h-[310.9px] lg:mt-0 lg:absolute lg:right-[130px] lg:top-1/2 transform lg:-translate-y-1/2 lg:w-[40%] lg:max-w-[751.5px] lg:max-h-[649px] lg:h-full flex justify-center z-0"
           >
             <div className="py-12 ">
-              <img
-                src=".assets/offer.svg"
-                alt="Offer"
-                className="h-[310px] sm:h-auto"
-              />
+              <img src={image} alt="Offer" className="h-[310px] sm:h-auto" />
             </div>
           </div>
         </div>
