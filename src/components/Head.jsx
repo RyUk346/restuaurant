@@ -21,7 +21,7 @@ function Head() {
           className="flex items-center w-[201.99px] h-[37px] gap-1.5"
         >
           <div className="w-[36.99px] h-[37.01px]">
-            <img src="src/assets/logo.png" alt="" />
+            <img src="/logo.png" alt="" />
           </div>
           <h1 className="font-poppins font-semibold text-[28.44px] leading-[28.44px]">
             Restau<span className="font-normal">rant</span>

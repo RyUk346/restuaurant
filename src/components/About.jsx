@@ -12,7 +12,7 @@ function About() {
       <div className="w-full h-[1260px] md:h-[820px] bg-[#FFFFFF] lg:px-[140px] md:py-12 ">
         <div className="w-full max-h-[1080.03px] gap-6 px-6 flex flex-col md:flex-row justify-between items-start">
           <div id="left" className="py-6 lg:py-12 md:w-1/2 lg:w-1/2">
-            <img src="src/assets/about.png" alt="image" />
+            <img src="/about.png" alt="image" />
           </div>
 
           <div className="flex flex-col md:w-1/2 lg:w-1/2 lg:py-12">
@@ -73,7 +73,7 @@ function About() {
                 </div>
                 <div className="flex w-[204px] h-[56px] gap-2 py-4 pr-6">
                   <img
-                    src="src/assets/phone.png"
+                    src="/phone.png"
                     alt=""
                     className="w-5 h-5 md:w-6 md:h-6"
                   />
@@ -87,7 +87,7 @@ function About() {
         </div>
         <div className="w-[330px] h-[274px] py-4 md:flex md:w-full md:h-auto md:space-x-4">
           <div className="flex items-center w-full md:w-[400px] gap-4">
-            <img src="src/assets/delivery.png" alt="" />
+            <img src="/delivery.png" alt="" />
             <div>
               <h1 className="font-bebas font-bold text-[24px] md:text-[30px] leading-[36px] md:leading-[36px]">
                 FAST DELIVERY
@@ -98,7 +98,7 @@ function About() {
             </div>
           </div>
           <div className="flex items-center w-full md:w-[400px] gap-4">
-            <img src="src/assets/delivery1.png" alt="" />
+            <img src="/delivery1.png" alt="" />
             <div>
               <h1 className="font-bebas font-bold text-[24px] md:text-[30px] leading-[36px] md:leading-[36px]">
                 ABSOLUTE DINING
@@ -110,7 +110,7 @@ function About() {
           </div>
 
           <div className="flex items-center w-full md:w-[400px] gap-4">
-            <img src="src/assets/delivery2.png" alt="" />
+            <img src="/delivery2.png" alt="" />
             <div>
               <h1 className="font-bebas font-bold text-[24px] md:text-[30px] leading-[36px] md:leading-[36px]">
                 PICKUP DELIVERY

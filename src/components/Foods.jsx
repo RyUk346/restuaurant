@@ -53,7 +53,7 @@ function Foods() {
               >
                 <div className="w-[330px] md:w-[306px] h-[300px] bg-[#FFFFFF] flex flex-col items-center mt-8 p-[32px] z-10">
                   <div className="flex flex-col items-center w-[186px] h-[124px] top-[-2px] left-[-33px]">
-                    <img src="src/assets/burger.png" alt="" />
+                    <img src="/burger.png" alt="" />
                   </div>
                   <div className="w-[57PX] h-0 border-t-4 border-[#BD1F17] mt-4"></div>
                   <div className="flex flex-col items-center py-4">
@@ -67,7 +67,7 @@ function Foods() {
                 </div>
                 <div className="w-[330px] md:w-[306px] h-[300px] bg-[#FFFFFF] flex flex-col items-center mt-8 p-[32px] z-10">
                   <div className="flex flex-col items-center w-[186px] h-[124px] top-[-2px] left-[-33px]">
-                    <img src="src/assets/pizza.png" alt="" />
+                    <img src="/pizza.png" alt="" />
                   </div>
                   <div className="w-[57PX] h-0 border-t-4 border-[#BD1F17] mt-4"></div>
                   <div className="flex flex-col items-center py-4">
@@ -81,7 +81,7 @@ function Foods() {
                 </div>
                 <div className="w-[330px] md:w-[306px] h-[300px] bg-[#FFFFFF] flex flex-col items-center mt-8 p-[32px] z-10">
                   <div className="flex flex-col items-center w-[186px] h-[124px] top =[-2px] left-[-33px]">
-                    <img src="src/assets/fries.png" alt="" />
+                    <img src="/fries.png" alt="" />
                   </div>
                   <div className="w-[57PX] h-0 border-t-4 border-[#BD1F17] mt-4"></div>
                   <div className="flex flex-col items-center py-4">
@@ -95,7 +95,7 @@ function Foods() {
                 </div>
                 <div className="w-[330px] md:w-[306px] h-[300px] bg-[#FFFFFF] flex flex-col items-center mt-8 p-[32px] z-10">
                   <div className="flex flex-col items-center w-[186px] h-[124px] top-[-2px] left-[-33px]">
-                    <img src="src/assets/chicken.png" alt="" />
+                    <img src="/chicken.png" alt="" />
                   </div>
                   <div className="w-[57PX] h-0 border-t-4 border-[#BD1F17] mt-4"></div>
                   <div className="flex flex-col items-center py-4">
@@ -146,7 +146,7 @@ function Foods() {
             </div>
           </div>
           <div className="hidden lg:block lg:relative top-[-440px]">
-            <img src="src\assets\food.png" alt="" />
+            <img src="/food.png" alt="" />
           </div>
         </div>
       </div>

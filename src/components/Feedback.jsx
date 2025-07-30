@@ -37,7 +37,7 @@ function Feedback() {
           <div className="relative w-full min-w-[330px] md:h-[555px] h-[240px] sm:h-[300px] ">
             <video
               ref={videoRef}
-              src="src/assets/video.webm"
+              src="/video.webm"
               className="w-full h-full object-cover"
               controls={false}
             />
@@ -47,11 +47,7 @@ function Feedback() {
               className="absolute inset-0 flex items-center justify-center cursor-pointer"
             >
               {!isPlaying && (
-                <img
-                  src="src/assets/Play.png"
-                  alt="Play Button"
-                  className="w-16 h-16"
-                />
+                <img src="/Play.png" alt="Play Button" className="w-16 h-16" />
               )}
             </div>
           </div>
@@ -74,7 +70,7 @@ function Feedback() {
                 </h1>
               </div>
               <div>
-                <img src="src/assets/person.png" alt="" />
+                <img src="/person.png" alt="" />
               </div>
             </div>
           </div>

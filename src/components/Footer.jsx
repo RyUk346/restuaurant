@@ -41,7 +41,7 @@ function Footer() {
               </div>
             </div>
             <div className="flex flex-col items-center justify-center gap-4 ">
-              <img src="src\assets\call.png" alt="" />
+              <img src="/call.png" alt="" />
 
               <div className="text-center">
                 <h1 className="font-bebas font-bold text-[24px] leading-[28px] tracking-[0.06em]">
@@ -118,10 +118,10 @@ function Footer() {
           </div>
           <div className="md:flex-col">
             <div className="flex items-center justify-center gap-[16.16px] pt-[40px]">
-              <img src="src\assets\fb.png" alt="" />
-              <img src="src\assets\x.png" alt="" />
-              <img src="src\assets\insta.png" alt="" />
-              <img src="src\assets\linkedin.png" alt="" />
+              <img src="/fb.png" alt="" />
+              <img src="/x.png" alt="" />
+              <img src="/insta.png" alt="" />
+              <img src="/linkedin.png" alt="" />
             </div>
             <div className="flex items-center justify-center py-4">
               <h1 className="font-roboto font-normal text-[16px] md:text-[21px] leading-[18.75px] md:leading-[24.61px] tracking-[0.03em]">
